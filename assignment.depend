@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\hp\desktop\assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1634322149 source:c:\users\hp\desktop\assignment\assignment1.c
+	<stdio.h>
+
+1634325183 source:c:\users\hp\desktop\assignment\assignment2.c
+	<stdio.h>
+
